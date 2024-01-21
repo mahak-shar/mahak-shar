@@ -29,12 +29,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 <h2 align="left">GitHub Activity :</h2>
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka1551&show_icons=true&locale=en&layout=compact" alt="priyanka1551" /></p></div>
-<div><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanka1551&show_icons=true&locale=en" alt="priyanka1551" /></p></div>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahak-shar&show_icons=true&locale=en&layout=compact" alt="mahak-shar" /></p></div>
+<div><p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahak-shar&show_icons=true&locale=en" alt="priyanka1551" /></p></div>
 </br></br></br></br> </br></br></br>
-<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1551&" alt="priyanka1551" /></p></div>
+<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-shar&" alt="mahak-shar" /></p></div>
 </br></br></br> </br></br> </br></br></br></br>
 <div><p align="left">
+ <br>
 <h2> Thanks🙏 for visiting my profile, see you next time!!</h2>
 </p></div>
 
