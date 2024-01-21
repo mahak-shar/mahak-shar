@@ -35,7 +35,6 @@
 <div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak-shar&" alt="mahak-shar" /></p></div>
 </br></br></br> </br></br> </br></br></br></br>
 <div><p align="left">
- <br>
 <h2> Thanks🙏 for visiting my profile, see you next time!!</h2>
 </p></div>
 
