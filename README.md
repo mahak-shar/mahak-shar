@@ -1,7 +1,7 @@
 
 # *Hi there👋! I'm Mahak Sharma*
  </br>
-- 👀 Interested in Front End Development.
+- 👀 Interested in Full Stack Development.
 </br>
 - 🌱 Currently solving problems on Leetcode in Java and learning Web Development.
 </br>
