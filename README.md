@@ -1,3 +1,10 @@
+# 👋 Hi there! I'm Mahak Sharma
+
+- 👀 I'm interested in **Full Stack Development** and **Java Programming**  
+- 🌱 Currently solving problems on **LeetCode in Java** and learning advanced **Web Development**  
+- 💞 Looking to collaborate on **Web Development projects**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mahak-sharma-20034a247/)
+
 ---
 
 ## 💻 Tech Stack
@@ -31,6 +38,7 @@
 
 ### 🧪 Tools  
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 </p>
@@ -46,5 +54,3 @@
 ---
 
 <h2 align="center">🙏 Thanks for visiting my profile! See you next time 😄</h2>
-
-
